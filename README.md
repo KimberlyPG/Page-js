@@ -1,4 +1,4 @@
-Project using javascript and HTML
+## Page using jquery and HTML
 
 ### Home page
 ![image](https://user-images.githubusercontent.com/65067847/179924140-dff11925-9c96-4da5-a11c-5024b611a720.png)
